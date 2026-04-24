@@ -66,5 +66,3 @@ Help support the project.
 
 
 lightning: zalgebar@rizful.com
-
-bitcoin: bc1qnhhjlhvw4lgw8ejnywcjxvf92s6ez27xerumwp
