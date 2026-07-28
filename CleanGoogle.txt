@@ -20,6 +20,7 @@ google.com##.equNN
 ! Gmail
 google.com##.Zmxtcf
 google.com##.e5IPTd
+google.com##.lRwCV
 
 ! Google Docs
 google.com###docs-sidekick-button-container
