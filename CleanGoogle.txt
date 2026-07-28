@@ -21,6 +21,8 @@ google.com##.equNN
 google.com##.Zmxtcf
 google.com##.e5IPTd
 google.com##.lRwCV
+google.com###lRwCV
+google.com###.lRwCV
 
 ! Google Docs
 google.com###docs-sidekick-button-container
